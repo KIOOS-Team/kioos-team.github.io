@@ -514,7 +514,3 @@ $(".scroll-to").on("click", function (e) {
 		scrollTop: $($anchor.attr("href")).offset().top
 	}, 1200);
 });
-
-
-
-
